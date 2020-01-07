@@ -1,0 +1,27 @@
+h1 {
+  font-size: 60px;
+  font-family: impact;
+  color: turquoise;
+  border: solid;
+  border-color: green;
+  background-color: cornflowerblue;
+}
+
+body {
+  background-color: darkred;
+}
+
+li {
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+ul{
+  border: solid;
+}
+
+img {
+  width: 1000px;
+  border: solid;
+  border-color: beige;
+}
