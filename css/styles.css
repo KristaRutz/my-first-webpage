@@ -1,5 +1,8 @@
 h1 {
-  color: blue;
+  color: red;
+  text-align: center;
+  font-size: 100px;
+  line-height: 700px
 }
 
 h2 {
@@ -8,10 +11,12 @@ h2 {
 }
 
 p {
-    font-family: sans-serif
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: inherit;
 }
 
 ul {
     font-size: 20x;
     line-height: 30px;
 }
+
